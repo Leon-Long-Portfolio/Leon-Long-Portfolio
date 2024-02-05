@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leon Long and this is my portoflio. Enjoy!
+- 👋 Hi, I’m Leon Long and this is my portfolio. Enjoy!
 - 👀 I’m interested in everything to do with Engineering, especially Computer Engineering and Mechanical Engineering.
 - 🌱 I’m currently learning Artificial Intelligence and dipping my toes in Computational Engineering.
 - 💞️ I’m looking to collaborate on ML/DL projects and engineering projects with aerospace applications.
